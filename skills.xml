@@ -1,0 +1,12 @@
+<root>
+    <SoftSkills>
+        <Skill1>Time Manegment</Skill1>
+        <Skill2>Flexibility</Skill2>
+        <Skill3>Analytical</Skill3>
+    </SoftSkills>
+    <HardSkils>
+        <Skill4>Terminal</Skill4>
+        <Skill5>Coding</Skill5>
+        <Skill6>Testing Tools</Skill6>
+    </HardSkils>
+</root>
